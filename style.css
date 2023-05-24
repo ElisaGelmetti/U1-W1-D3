@@ -1,0 +1,67 @@
+
+      body {
+        
+        font-family: "Frank Ruhl Libre",Georgia,serif;
+      }
+      header {
+        text-align: center;
+        font-family: "Frank Ruhl Libre, Georgia,serif";
+      }
+   main {
+    margin-left: auto;
+   margin-right: auto;
+   text-align: justify ;
+   }
+      body h1 {
+        text-align: center;
+      }
+      .inizio {
+        background-image: linear-gradient(top right, #ccc184 0%, #efeeaa 100%);
+      }
+      .alto {
+        color: #004d4d;
+      }
+      h4 {
+        color: rgb(209, 81, 35);
+      }
+     
+      body {
+        font-family: "Ubuntu", sans-serif;
+      }
+      hr {
+        color: rgb(238, 238, 166);
+      }
+      .inizio {
+        
+        background-color: lightyellow;
+      }
+      .font {
+        color: rgb(82, 78, 78);
+        border-right-width: 15em;
+      
+      }
+      h4 {
+        color: orangered;
+        margin: 0%;
+      }
+      .text {
+        color: rgb(9, 109, 76);
+      }
+      U {
+        color: rgb(9, 109, 76);
+        margin: 0
+        ;
+      }
+
+ 
+      .separazione {
+        color: rgb(52, 158, 190);
+      }
+      .Document {
+  margin: auto;
+        text-align: center;
+      }
+     .linkf{
+      color: #0d5f5f;
+     }
+      
